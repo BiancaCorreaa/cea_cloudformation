@@ -38,10 +38,9 @@ Using code to build a network like this saves time and prevents human error. It 
 
 This project shows my ability to plan a cloud network, automate the setup, and follow industry security standards.
 
-## Project Files
+## Project File
 
 * [VPC CloudFormation Template](vpc.yaml)
-* [S3 Bucket Configuration](s3-bucket.yaml)
 
 ## How to Run It
 
