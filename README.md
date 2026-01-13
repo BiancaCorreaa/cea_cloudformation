@@ -40,7 +40,7 @@ This project shows my ability to plan a cloud network, automate the setup, and f
 
 ## Project Files
 
-* [VPC CloudFormation Template](template.yaml)
+* [VPC CloudFormation Template](vpc.yaml)
 * [S3 Bucket Configuration](s3-bucket.yaml)
 
 ## How to Run It
